@@ -62,7 +62,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       const Text(
-                        'Mobile Game',
+                        'Mobile Games',
                         style: TextStyle(
                             fontSize: 20,
                             color: AppsColors.white,
